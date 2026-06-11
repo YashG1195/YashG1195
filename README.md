@@ -1,8 +1,8 @@
-<h3 style="font-size: 2em;">Software Dev building projects that people like</h3>
+<h3 style="font-size: 2em;">I code it. You use it. We both win. </h3>
 
 <p style="font-size: 1.5em;">
-  I build things I need, and they end up solving problems for others. Mostly websites and tools that make things easier.
-</p>
+Not chasing trends. Just building things that work and don't get in your way.
+If it saves someone an hour, it was worth making.</p>
 
 <h4 style="font-size: 1.7em;">Follow me on:</h4>
 <p>
