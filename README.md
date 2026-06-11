@@ -19,7 +19,7 @@ If it saves someone an hour, it was worth making.</p>
 
 <h4 style="font-size: 1.7em;">Contribute towards my projects:</h4>
 <p>
-  <a href="https://www.buymeacoffee.com/yashgound2o">
+  <a href="https://www.chai4.me/yashg">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" style="height: 35px; width: 140px;" alt="Buy Me a Coffee" />
   </a>
 </p>
